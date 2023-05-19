@@ -1,0 +1,10 @@
+/*------------------------------- Game Page -------------------------------*/
+
+body {
+    background: #0b2239;
+    color: #fff;
+}
+
+#gamePage {
+    padding: 50px;
+}
